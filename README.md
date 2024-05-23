@@ -1,7 +1,7 @@
 👋 Olá, eu sou o Lucas Gusmão!
 
 - 👀 Interesse em front-end
-- 🌱 Estudando React Native
+- 🌱 Estudando Javascript
 - 😄 Pronomes: Ele/Dele  
 
 <a href="https://github.com/lucasgusmaobaptista/github-readme-stats">
