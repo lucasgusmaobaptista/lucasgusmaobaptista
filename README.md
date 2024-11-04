@@ -1,7 +1,7 @@
 👋 Olá, eu sou o Lucas Gusmão!
 
-- 👀 Interesse em Back-End
-- 🌱 Estudando Java/Spring Boot
+- 👀 Interesse em Full-Stack
+- 🌱 Estudando Javascript/React.js
 - 😄 Pronomes: Ele/Dele  
 
 <a href="https://github.com/lucasgusmaobaptista/github-readme-stats">
@@ -12,11 +12,11 @@
 </a>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="lucas-img" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="lucas-img" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
-  <img align="center" alt="lucas-img" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="lucas-img" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="lucas-img" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 </div>
 
   ##
