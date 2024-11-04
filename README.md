@@ -14,7 +14,7 @@
 <div style="display: inline_block"><br>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js, nodejs, express, react, mysql, mongodb, git " />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,html,css,react,mysql,mongodb,docker,git" />
   </a>
 </p>
 </div>
