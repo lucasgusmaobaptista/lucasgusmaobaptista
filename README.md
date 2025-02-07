@@ -1,7 +1,7 @@
 👋 Olá, eu sou o Lucas Gusmão!
 
-- 👀 Interesse em Full-Stack
-- 🌱 Estudando Javascript/React.js
+- 👀 Interesse em Ciência de Dados
+- 🌱 Estudando Python, SQL
 - 😄 Pronomes: Ele/Dele  
 
 <a href="https://github.com/lucasgusmaobaptista/github-readme-stats">
@@ -14,7 +14,7 @@
 <div style="display: inline_block"><br>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,git" />
+    <img src="https://skillicons.dev/icons?i=python,sql,mysql,mongodb,git" />
   </a>
 </p>
 </div>
