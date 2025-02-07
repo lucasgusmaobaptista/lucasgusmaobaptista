@@ -14,7 +14,7 @@
 <div style="display: inline_block"><br>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,express,html,css,angular,tailwind,mysql,postgresql,mongodb,docker,git" />
+    <img src="https://skillicons.dev/icons?i=python, pandas, keras, mysql, git" />
   </a>
 </p>
 </div>
