@@ -1,7 +1,7 @@
 👋 Olá, eu sou o Lucas Gusmão!
 
-- 👀 Interesse em Ciência de Dados
-- 🌱 Estudando Python, SQL
+- 👀 Interesse em Backend
+- 🌱 Estudando Java e Spring Boot
 - 😄 Pronomes: Ele/Dele  
 
 <a href="https://github.com/lucasgusmaobaptista/github-readme-stats">
@@ -14,7 +14,7 @@
 <div style="display: inline_block"><br>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,git" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,git" />
   </a>
 </p>
 </div>
