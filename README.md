@@ -1,4 +1,6 @@
-👋 Olá, eu sou o Lucas Gusmão!
+👋 Hi, I'm Lucas and welcome to my Github.
+Here you'll find some personal and academy projects!
+Fell free to ask anything 😁
 
 - 👀 Interesse em Backend
 - 🌱 Estudando Java e Spring Boot
