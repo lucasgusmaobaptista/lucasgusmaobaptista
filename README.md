@@ -2,9 +2,9 @@
 Here you'll find some personal and academy projects!
 Fell free to ask anything 😁
 
-- 👀 Interesse em Backend
-- 🌱 Estudando Java e Spring Boot
-- 😄 Pronomes: Ele/Dele  
+- 👀 Interested in: Fullstack Development
+- 🌱 Studying: Java, Spring and Angular
+- 😄 Pronouns: He/Him  
 
 <a href="https://github.com/lucasgusmaobaptista/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgusmaobaptista&show_icons=true&theme=transparent" />
