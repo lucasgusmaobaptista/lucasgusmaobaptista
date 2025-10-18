@@ -1,5 +1,5 @@
 👋 Hi, I'm Lucas and welcome to my Github.
-Here you'll find some personal and academy projects!
+Here you'll find some personal and academic projects!
 Fell free to ask anything 😁
 
 - 👀 Interested in: Fullstack Development
