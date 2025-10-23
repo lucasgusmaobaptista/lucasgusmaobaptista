@@ -12,7 +12,7 @@
 
 <p align="center">
   I'm passionate about software egineering, cybersecurity and changing the world through technology. <br>
-  Here you'll find some personal and academic projects!
+  Here you'll find some personal and academic projects! <br>
   Fell free to ask anything 😁
 </p>
 
