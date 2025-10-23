@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  I'm passionate about software egineering, cybersecurity and changing the world through technology. <b>
+  I'm passionate about software egineering, cybersecurity and changing the world through technology. <br>
   Here you'll find some personal and academic projects!
   Fell free to ask anything 😁
 </p>
