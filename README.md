@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Lucas</h1>
 
 <p align="center">
-  <em>Sofware Engineer</em>
+  <em>Software Engineer</em>
 </p>
 
 <p align="center">
