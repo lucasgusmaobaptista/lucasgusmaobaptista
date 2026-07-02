@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  I'm passionate about software egineering, data science and changing the world through technology. <br>
+  I'm a System Information student at Universidade Federal Rural do Rio de Janeiro<br>
   Here you'll find some personal and academic projects! <br>
   Fell free to ask anything 😁
 </p>
