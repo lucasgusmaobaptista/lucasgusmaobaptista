@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  I'm a System Information student at Universidade Federal Rural do Rio de Janeiro<br>
+  I'm passionate about Software Engineering<br>
   Here you'll find some personal and academic projects! <br>
   Fell free to ask anything 😁
 </p>
